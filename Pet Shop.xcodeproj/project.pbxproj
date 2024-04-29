@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		400609302BDF46950076D0A1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4006092F2BDF46950076D0A1 /* README.md */; };
+		4006094F2BDF4DAB0076D0A1 /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 4006094E2BDF4DAB0076D0A1 /* Images */; };
 		E62909562BCFBB0600BEDC6A /* API-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E62909552BCFBB0600BEDC6A /* API-Info.plist */; };
 		E62909582BCFBB1300BEDC6A /* PetAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E62909572BCFBB1300BEDC6A /* PetAPI.swift */; };
 		E629095A2BCFBBC900BEDC6A /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = E62909592BCFBBC900BEDC6A /* Endpoint.swift */; };
@@ -90,6 +91,7 @@
 
 /* Begin PBXFileReference section */
 		4006092F2BDF46950076D0A1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4006094E2BDF4DAB0076D0A1 /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 		E62909552BCFBB0600BEDC6A /* API-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "API-Info.plist"; sourceTree = "<group>"; };
 		E62909572BCFBB1300BEDC6A /* PetAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetAPI.swift; sourceTree = "<group>"; };
 		E62909592BCFBBC900BEDC6A /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
@@ -477,6 +479,7 @@
 		E6C6801F2BCEB65900A5A4E9 = {
 			isa = PBXGroup;
 			children = (
+				4006094E2BDF4DAB0076D0A1 /* Images */,
 				4006092F2BDF46950076D0A1 /* README.md */,
 				E6C6802A2BCEB65900A5A4E9 /* Pet Shop */,
 				E6C6803B2BCEB65A00A5A4E9 /* Pet ShopTests */,
@@ -726,6 +729,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4006094F2BDF4DAB0076D0A1 /* Images in Resources */,
 				E68423452BD8C50200C9FAA7 /* FavoriteResponseData.json in Resources */,
 				E62909562BCFBB0600BEDC6A /* API-Info.plist in Resources */,
 				E68422D82BD8185C00C9FAA7 /* BreedsData.json in Resources */,
