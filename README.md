@@ -8,13 +8,13 @@ A simple pet store iOS app built with SwiftUI that allows customers to find dogs
 - MVVM Architecture Pattern
 - Swift Concurrency (Async/Await) 
 
-## Features
+## Features 
 - Log in and Sign up
 - Add to Favorite
 - List of Breeds and dogs with pagination and refresh feature
 - Add to cart and checkout
 
-## Technical Details
+## Technical Details 
 - Login and Signup data stored in keychain (KeychainHelper.swift)
 - Favorite data stored locally with UserDefaults
 - TabView with two main screens, first tab shows list of breeds, second tab show list of favorites
